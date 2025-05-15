@@ -1,5 +1,6 @@
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/New_York_City_at_night_HDR_edit1.jpg" width="300" height="150" />
+<img src="![image](https://github.com/user-attachments/assets/7a04bf8a-aa83-48d9-bc25-77f651b8eb29)
+" width="300" height="150" />
 
 <a name="top"></a>
 
