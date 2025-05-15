@@ -1,5 +1,6 @@
 
-<img src="https://files.slack.com/files-tmb/T08MWPVFLRY-F08SN5DSE84-e75d0d1d28/nyc_council_720.png" width="300" height="150" />
+<img src="![Sello NYC Council](https://files.slack.com/files-tmb/T08MWPVFLRY-F08SN5DSE84-e75d0d1d28/nyc_council_720.png)
+" width="300" height="150" />
 
 <a name="top"></a>
 
