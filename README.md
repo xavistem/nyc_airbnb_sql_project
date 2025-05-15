@@ -92,13 +92,11 @@ La tecnología y la economía colaborativa seguirán marcando el futuro del urba
 
 ---
 
-## 👤 Conócenos
-
 <details>
-  <summary>Sobre mí</summary>
-  <br>
+  <summary>
+   <h2>👤 Conócenos</h2>
+  </summary>
 
-Somos Luis Manuel y Xavi, estudiantes de Data Analytics en Ironhack, y este es uno de nuestros proyectos más completos hasta la fecha 😎
 
 [![Luis Manuel Blanco](https://img.shields.io/badge/@httpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
 
