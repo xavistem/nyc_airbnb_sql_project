@@ -101,7 +101,10 @@ La tecnología y la economía colaborativa seguirán marcando el futuro del urba
 Somos Luis Manuel y Xavi, estudiantes de Data Analytics en Ironhack, y este es uno de nuestros proyectos más completos hasta la fecha 😎
 
 [![Luis Manuel Blanco](https://img.shields.io/badge/@httpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
-[![Xavi](https://img.shields.io/badge/@xhttpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
+
+[![Xavi Fernandez](https://img.shields.io/badge/@xavistem-GitHub-181717?logo=github&style=flat-square)](https://github.com/xavistem)
+
+
 
 </details>
 
@@ -109,6 +112,7 @@ Somos Luis Manuel y Xavi, estudiantes de Data Analytics en Ironhack, y este es u
 
 ![Python](https://img.shields.io/badge/Python-3.12.7-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![Status](https://img.shields.io/badge/Estado-En%20proceso-yellow)
+![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-Database-blue?logo=mysql)
+![Status](https://img.shields.io/badge/Estado-Terminado-brightgreen)
 
 [🔝 Back to top](#top)
