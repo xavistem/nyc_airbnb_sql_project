@@ -9,7 +9,7 @@
   <summary>
    <h2>🎯 Objetivos de aprendizaje</h2>
   </summary>
-Soy Luis Manuel Blanco Abenza, estudiante de Ironhack, y en este proyecto he analizado la evolución del mercado inmobiliario en Nueva York desde el año 2019 hasta 2025, prestando especial atención a la influencia de Airbnb y el impacto de nuevas regulaciones en su actividad.
+Somos Luis Manuel y Xavi, estudiantes de Ironhack, y en este proyecto hemos analizado la evolución del mercado inmobiliario en Nueva York en el año 2019 hasta 2025, prestando especial atención a la influencia de Airbnb y el impacto de nuevas regulaciones en su actividad.
 
 Este análisis nos permite estudiar cómo la oferta y los precios de los alojamientos, tanto tradicionales como turísticos, han cambiado a lo largo del tiempo, especialmente tras la pandemia del COVID-19 y las medidas legislativas impuestas sobre plataformas como Airbnb.
 
@@ -26,10 +26,10 @@ Antes de empezar este proyecto debes tener conocimientos sobre:
 
 - Python y Jupyter Notebook
 - Análisis de datos con Pandas y Matplotlib
-- SQL básico para extracción de datos
+- SQL avanzado para extracción de datos
 - Limpieza y manipulación de datos
 - Lectura de archivos CSV y conexión con bases de datos
-- APIs y enriquecimiento de datos externos
+
 
 <br>
 <hr>
@@ -87,7 +87,6 @@ La tecnología y la economía colaborativa seguirán marcando el futuro del urba
 ## 🛠️ Propuestas de mejora
 
 - Incorporar datos de plataformas rivales (Booking, Vrbo).
-- Integrar imágenes satelitales o mapas interactivos.
 - Predecir tendencias futuras con modelos de machine learning.
 - Evaluar el impacto a nivel económico sobre pequeños comercios.
 
@@ -99,9 +98,10 @@ La tecnología y la economía colaborativa seguirán marcando el futuro del urba
   <summary>Sobre mí</summary>
   <br>
 
-Soy Luis Manuel, estudiante de Data Analytics en Ironhack, y este es uno de mis proyectos más completos hasta la fecha 😎
+Somos Luis Manuel y Xavi, estudiantes de Data Analytics en Ironhack, y este es uno de nuestros proyectos más completos hasta la fecha 😎
 
-[![Luis Manuel Blanco](https://img.shields.io/badge/@xhttpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
+[![Luis Manuel Blanco](https://img.shields.io/badge/@httpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
+[![Xavi](https://img.shields.io/badge/@xhttpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
 
 </details>
 
