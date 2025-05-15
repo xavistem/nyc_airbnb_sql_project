@@ -1,6 +1,5 @@
 
 <img src= "![png-transparent-new-york-city-poster-watercolor-painting-illustration-watercolor-new-york-comics-statue-of-liberty-illustration-comics-watercolor-leaves-painted-thumbnail](https://github.com/user-attachments/assets/68b46d72-d2df-42f0-a20c-1c7cb854c3cf)
-
 " width="300" height="150" />
 
 <a name="top"></a>
