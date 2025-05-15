@@ -1,5 +1,5 @@
 
-<img src="![Sello NYC Council](https://files.slack.com/files-tmb/T08MWPVFLRY-F08SN5DSE84-e75d0d1d28/nyc_council_720.png)
+<img src= "![image](https://github.com/user-attachments/assets/d5478c11-c9df-4894-a620-09adfff52827)
 " width="300" height="150" />
 
 <a name="top"></a>
