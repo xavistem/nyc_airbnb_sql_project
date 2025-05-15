@@ -1,6 +1,5 @@
 
-<img src="![image](https://github.com/user-attachments/assets/26ac03e8-9992-412e-be7d-f1ac6dadde35)
-" width="300" height="150" />
+<img src="https://files.slack.com/files-tmb/T08MWPVFLRY-F08SN5DSE84-e75d0d1d28/nyc_council_720.png" width="300" height="150" />
 
 <a name="top"></a>
 
