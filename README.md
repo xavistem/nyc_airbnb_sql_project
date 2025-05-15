@@ -1,6 +1,5 @@
 
-<img src="![image](https://github.com/user-attachments/assets/7a04bf8a-aa83-48d9-bc25-77f651b8eb29)
-" width="300" height="150" />
+<img src="https://data-ft-abril-2025.slack.com/files/U08NZ8EPDS7/F08SXN77SG1/seal_of_new_york_city__bw_.svg" width="300" height="150" />
 
 <a name="top"></a>
 
