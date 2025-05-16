@@ -3,16 +3,16 @@
 
 <a name="top"></a>
 
-## 🏙️ NYC Housing Market & Airbnb Influence (2019–2025) | Python
+## 🏙️ NYC Housing Market & Airbnb Influence (2019–2025)
 
 <details>
   <summary>
    <h2>🎯 Objetivos de aprendizaje</h2>
   </summary>
-Somos Luis Manuel y Xavi, estudiantes de Ironhack, y en este proyecto hemos analizado la evolución del mercado inmobiliario en Nueva York en el año 2019 hasta 2025, prestando especial atención a la influencia de Airbnb y el impacto de nuevas regulaciones en su actividad.
+  
+Somos Luis Manuel y Xavi, en este proyecto hemos analizado la evolución del mercado inmobiliario en Nueva York en el año 2019 hasta 2025, prestando especial atención a la influencia de Airbnb y el impacto de nuevas regulaciones en su actividad. Lo hemos hecho simulando un encargo de New York City Council.
 
 Este análisis nos permite estudiar cómo la oferta y los precios de los alojamientos, tanto tradicionales como turísticos, han cambiado a lo largo del tiempo, especialmente tras la pandemia del COVID-19 y las medidas legislativas impuestas sobre plataformas como Airbnb.
-
 <br>
 <hr>
 </details>
@@ -22,22 +22,19 @@ Este análisis nos permite estudiar cómo la oferta y los precios de los alojami
    <h2>⚙️ Prerequisitos</h2>
   </summary>
 
-Antes de empezar este proyecto debes tener conocimientos sobre:
+Antes de empezar este proyecto teníamos conocimientos sobre:
 
 - Python y Jupyter Notebook
 - Análisis de datos con Pandas y Matplotlib
 - SQL avanzado para extracción de datos
 - Limpieza y manipulación de datos
 - Lectura de archivos CSV y conexión con bases de datos
-
-
-<br>
 <hr>
 </details>
 
 ## 🧭 Introducción
 
-Este proyecto investiga el **estado del mercado de alquiler residencial en NYC** previo al COVID-19 (2019) y su evolución hasta 2025, evaluando el papel de **Airbnb como agente transformador del ecosistema urbano**.
+Este proyecto investiga el **estado del mercado de alquiler residencial en NYC** previo al COVID-19 y su evolución hasta 2025, evaluando el papel de **Airbnb como agente transformador del ecosistema urbano**.
 
 La base de datos incluye información variada y rica en contexto, incluyendo:
 - Listados de alojamientos tradicionales y de Airbnb
@@ -74,13 +71,13 @@ Todo esto nos permitió hacer un análisis integral sobre cómo Airbnb ha afecta
 
 ## 📌 Conclusiones del Análisis
 
-## 🧠 Airbnb cambia las reglas del juego
+🧠 Airbnb cambia las reglas del juego
 
 La entrada masiva de Airbnb en NYC generó un efecto visible en la reducción de oferta de vivienda tradicional y el aumento de precios en barrios estratégicos. Esto se agravó tras el boom post-pandemia en la demanda de turismo local.
 
 Sin embargo, a partir de 2023, con la legislación más estricta, se ha visto una desaceleración en su crecimiento y un pequeño alivio en el acceso a la vivienda en zonas conflictivas.
 
-La tecnología y la economía colaborativa seguirán marcando el futuro del urbanismo, pero es imprescindible una regulación justa y equilibrada.
+La tecnología y la economía colaborativa seguirán marcando el futuro del urbanismo, pero es imprescindible una regulación justa y equilibrada para todos.
 
 ---
 
@@ -96,14 +93,10 @@ La tecnología y la economía colaborativa seguirán marcando el futuro del urba
   <summary>
    <h2>👤 Conócenos</h2>
   </summary>
-
-
+  
 [![Luis Manuel Blanco](https://img.shields.io/badge/@httpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
 
 [![Xavi Fernandez](https://img.shields.io/badge/@xavistem-GitHub-181717?logo=github&style=flat-square)](https://github.com/xavistem)
-
-
-
 </details>
 
 ---
